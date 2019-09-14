@@ -1,0 +1,53 @@
+/* Base Tags */
+
+body{
+	background-color:#000000
+}
+
+
+/* Structural Classes */
+
+.zhscontainer{
+	width:400px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.mainphoto{
+	
+}
+
+.maintext{
+	
+}
+
+.zhsnav{}
+
+.zhsnav img{}
+
+.zhsnav ul{
+	margin-left:20px;
+	margin-right:auto;
+}
+
+/*Text Formatting */
+.zhsnav ul li{
+	font-family: 'Reenie Beanie', arial, serif;
+	font-size: 32px;
+	font-weight:bold;
+	color:red;
+	list-style-type:none;
+	display:inline;
+	padding-right:20px;
+
+}
+
+a{
+	text-decoration:none;
+	color:inherit;
+}
+
+.maintext{
+	color:#FFFFFF;
+	font-family:times new roman, serif;
+}
